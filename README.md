@@ -1,6 +1,6 @@
 Some of the tools & technologies I work with:
 
-![list of tools and technologies I work with](https://skillicons.dev/icons?perline=8&i=ts,js,lua,bash,py,md,neovim,linux,docker,svelte,html,tailwind,nodejs,nestjs,prisma,graphql,raspberrypi,flutter,regex,git,github,supabase,vercel,cloudflare,grafana")
+![list of tools and technologies I work with](https://skillicons.dev/icons?perline=9&i=ts,js,lua,bash,py,nix,linux,neovim,docker,svelte,html,tailwind,nodejs,nestjs,vitest,pnpm,prisma,graphql,raspberrypi,tauri,flutter,grafana,regex,git,supabase,vercel,cloudflare)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenbe&hide_progress=true)
 
